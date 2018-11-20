@@ -1,0 +1,28 @@
+rodrigo.ferreira@caelum.com.br
+
+ver: Laurie Williams
+     
+Pair programming - qualidade
+		 - menos bugs
+ 		 - multiplicam conhecimento
+		 - nivelamento
+	         - embutir no "processo" / pelo menos uma vez ao dia
+
+Testes manuais - fator humano
+	       - mais tempo
+	       - mais caro
+	       - curva de aprendizado
+	       - procedimento "chato"
+
+Testes automatizados - mais rápido
+		     - pode ser usado como documentação (atualizada)
+   		     - se preocupa com a qualidade do código
+		     - menos bugs
+		     - mais segurança para fazer alterações
+		     - convite para melhorias
+  		     - recomendado na prática ágil
+	Desvantagens: 
+		- mais trabalho para o programador
+		- curva de aprendizado
+		- mais código para manutenção
+
