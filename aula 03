@@ -1,0 +1,11 @@
+Refactoring:
+Para código de qualidade:
+	- Orientação a Objetos
+	- Design Patterns 
+	- S.O.L.I.D
+
+S: single resposibility principle
+O: open/closed principle
+L: liskov substitution principle
+I: interface segregation principle
+D: dependency inversion principle

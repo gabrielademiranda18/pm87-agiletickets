@@ -26,3 +26,8 @@ Testes automatizados - mais rápido
 		- curva de aprendizado
 		- mais código para manutenção
 
+Testes de Unidade
+Testes de Integração - chamam uma API, BD, etc.
+Testes de Aceitação - simulam o usuário. Ex: selenium web driver
+
+Artigo "Test Pyramid" - Martin Fowler
